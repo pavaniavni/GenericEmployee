@@ -1,0 +1,14 @@
+C:\Users\Pavani\source\repos\GenericEmployee\GenericEmployee\bin\Debug\net6.0\GenericEmployee.exe
+C:\Users\Pavani\source\repos\GenericEmployee\GenericEmployee\bin\Debug\net6.0\GenericEmployee.deps.json
+C:\Users\Pavani\source\repos\GenericEmployee\GenericEmployee\bin\Debug\net6.0\GenericEmployee.runtimeconfig.json
+C:\Users\Pavani\source\repos\GenericEmployee\GenericEmployee\bin\Debug\net6.0\GenericEmployee.dll
+C:\Users\Pavani\source\repos\GenericEmployee\GenericEmployee\bin\Debug\net6.0\ref\GenericEmployee.dll
+C:\Users\Pavani\source\repos\GenericEmployee\GenericEmployee\bin\Debug\net6.0\GenericEmployee.pdb
+C:\Users\Pavani\source\repos\GenericEmployee\GenericEmployee\obj\Debug\net6.0\GenericEmployee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavani\source\repos\GenericEmployee\GenericEmployee\obj\Debug\net6.0\GenericEmployee.AssemblyInfoInputs.cache
+C:\Users\Pavani\source\repos\GenericEmployee\GenericEmployee\obj\Debug\net6.0\GenericEmployee.AssemblyInfo.cs
+C:\Users\Pavani\source\repos\GenericEmployee\GenericEmployee\obj\Debug\net6.0\GenericEmployee.csproj.CoreCompileInputs.cache
+C:\Users\Pavani\source\repos\GenericEmployee\GenericEmployee\obj\Debug\net6.0\GenericEmployee.dll
+C:\Users\Pavani\source\repos\GenericEmployee\GenericEmployee\obj\Debug\net6.0\ref\GenericEmployee.dll
+C:\Users\Pavani\source\repos\GenericEmployee\GenericEmployee\obj\Debug\net6.0\GenericEmployee.pdb
+C:\Users\Pavani\source\repos\GenericEmployee\GenericEmployee\obj\Debug\net6.0\GenericEmployee.genruntimeconfig.cache
